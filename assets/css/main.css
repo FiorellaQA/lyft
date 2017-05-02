@@ -1,0 +1,11 @@
+body,html{
+	height: 100%;
+  	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color:#333447;
+}
+/*TITULOS
+font-family: 'Playfair Display', serif;*/
+
